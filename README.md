@@ -5,3 +5,4 @@
 <a href="https://github.com/Akatuki1121"><img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Akatuki1121&layout=compact&hide_title=false&bg_color=0B1E3A&title_color=FFB020&text_color=E8EEFC&border_color=2A4370"/></a>
 
 </div>
+
